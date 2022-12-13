@@ -1,2 +1,2 @@
 # gitTraining
-# Update readme
+# new updated readme
